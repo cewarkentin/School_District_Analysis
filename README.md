@@ -44,9 +44,7 @@ Following cleaning of the data, the data from the two independent CSV files were
 
 Following a report that the reading and math scores for Thomas High School ninth graders were altered, the potentially fraudulent scores were discarded (replaced with NaN) and analysis was repeated with the new dataset.
 
-## Analysis
-
-The following was delivered for analysis by the school district:
+## The following was delivered for analysis by the school district:
 
 ### A high-level snapshot of the district's key metrics
 
@@ -67,9 +65,13 @@ The following was delivered for analysis by the school district:
 
 ![Deliverable_2_-_math_scores_by_grade](https://github.com/cewarkentin/School_District_Analysis/blob/main/Images/Deliverable%202%20-%20math%20scores%20by%20grade.png)
 
+The 9th grade scores for Thomas High School are marked NaN because of potentially fraudulent scores-- these scores were disgarded.
+
 #### (3) The average reading score received by students in each grade level at each school
 
 ![Deliverable_2_-_reading_scores_by_grade](https://github.com/cewarkentin/School_District_Analysis/blob/main/Images/Deliverable%202%20-%20reading%20scores%20by%20grade.png)
+
+The 9th grade scores for Thomas High School are marked NaN because of potentially fraudulent scores-- these scores were disgarded.
 
 #### (4) School performance based on the budget per student
 
@@ -88,6 +90,19 @@ The following was delivered for analysis by the school district:
 ### Results
 - There is a bulleted list that addresses how each of the seven school district metrics was affected by the changes in the data
 
+Following discarding the potentially fraudulent 9th grade test scores for Thomas High School, the school district analysis changed in the following ways:
+ - Total Students
+ - Total Budget
+ - Average Math Score
+ - Average Reading Score
+ - % Passing Math
+ - % Passing Reading
+ - % Overall Passing
+
 ### Summary
 
-- There is a statement summarizing four changes to the school district analysis after reading and math scores have been replaced
+Following discarding the potentially fraudulent 9th grade test scores for Thomas High School, the school district analysis changed in the following ways:
+ - (1)
+ - (2)
+ - (3) 
+ - (4) 
