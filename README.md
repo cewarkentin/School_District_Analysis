@@ -48,28 +48,40 @@ Following a report that the reading and math scores for Thomas High School ninth
 
 The following was delivered for analysis by the school district:
 
-### A high-level snapshot of the district's key metrics, presented in a table format
+### A high-level snapshot of the district's key metrics
 
 ![Deliverable_2_-_district_summary_df](https://github.com/cewarkentin/School_District_Analysis/blob/main/Images/Deliverable%202%20-%20district%20summary%20df.png)
 
-### An overview of the key metrics for each school, presented in a table format
+### An overview of the key metrics for each school
 
-### Tables presenting each of the following metrics:
+![Deliverable_2_-_per_school_summary_df](https://github.com/cewarkentin/School_District_Analysis/blob/main/Images/Deliverable%202%20-%20per%20school%20summary%20df.png)
 
-#### Top 5 and bottom 5 performing schools, based on the overall passing rate
+### Tables presenting each of the following six metrics:
+
+#### (1) Top 5 and bottom 5 performing schools, based on the overall passing rate
 
 ![Deliverable_2_-_top_5_schools](https://github.com/cewarkentin/School_District_Analysis/blob/main/Images/Deliverable%202%20-%20top%205%20schools.png)
 ![Deliverable_2_-_bottom_5_schools](https://github.com/cewarkentin/School_District_Analysis/blob/main/Images/Deliverable%202%20-%20bottom%205%20schools.png)
 
-#### The average math score received by students in each grade level at each school
+#### (2) The average math score received by students in each grade level at each school
 
-#### The average reading score received by students in each grade level at each school
+![Deliverable_2_-_math_scores_by_grade](https://github.com/cewarkentin/School_District_Analysis/blob/main/Images/Deliverable%202%20-%20math%20scores%20by%20grade.png)
 
-#### School performance based on the budget per student
+#### (3) The average reading score received by students in each grade level at each school
 
-#### School performance based on the school size 
+![Deliverable_2_-_reading_scores_by_grade](https://github.com/cewarkentin/School_District_Analysis/blob/main/Images/Deliverable%202%20-%20reading%20scores%20by%20grade.png)
 
-#### School performance based on the type of school
+#### (4) School performance based on the budget per student
+
+![deliverable_2_-_spending_summary](https://github.com/cewarkentin/School_District_Analysis/blob/main/Images/deliverable%202%20-%20spending%20summary.png)
+
+#### (5) School performance based on the school size 
+
+![deliverable_2_-_size_summary](https://github.com/cewarkentin/School_District_Analysis/blob/main/Images/deliverable%202%20-%20size%20summary.png)
+
+#### (6) School performance based on the type of school
+
+![deliverable_2_-_school_type_summary](https://github.com/cewarkentin/School_District_Analysis/blob/main/Images/deliverable%202%20-%20school%20type%20summary.png)
 
 - Overview of the school district analysis, the purpose of this analysis is well defined
 
