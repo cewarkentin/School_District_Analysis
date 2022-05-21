@@ -63,9 +63,11 @@ The same metrics as above, broken down by data for each school in the district. 
 #### (1) Top and bottom performing schools in the district
 
 Based on overall passing rate for each school, the top 5 performing schools in the district are (from best to worst): Cabrera HS, Thomas HS, Griffin HS, Wilson HS, Pena HS. The top performing school in the district is Cabrera HS. Cabrera HS is a medium-sized charter school with a budget of <$586/student. All 5 top schools are charter schools. 
+
 ![Deliverable_2_-_top_5_schools](https://github.com/cewarkentin/School_District_Analysis/blob/main/Images/Deliverable%202%20-%20top%205%20schools.png)
 
 Based on overall passing rate for each school, the bottom 5 performing schools in the district are (from best to worst): Rodriguez HS, Figueroa HS, Huang HS, Hernandez HS, Johnson HS. The worst performing school in the district is Johnson HS. Johnson HS is a large-sized district school with a budget range of $646-675/student. All 5 bottom schools are district schools. 
+
 ![Deliverable_2_-_bottom_5_schools](https://github.com/cewarkentin/School_District_Analysis/blob/main/Images/Deliverable%202%20-%20bottom%205%20schools.png)
 
 #### (2) The average math score received by students in each grade level at each school
