@@ -54,7 +54,7 @@ A high-level snapshot describing the following for the district as a whole: tota
 
 ### School-level metrics
 
-The same metrics as above, broken down by data for each school in the district. Additionally, each school is described by its budget per student and its student population size compared to other district schools.
+The same metrics as above, broken down by data for each school in the district. Additionally, each school is described by its budget per student.
 
 ![Deliverable_2_-_per_school_summary_df](https://github.com/cewarkentin/School_District_Analysis/blob/main/Images/Deliverable%202%20-%20per%20school%20summary%20df.png)
 
