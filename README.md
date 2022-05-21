@@ -98,13 +98,7 @@ Following discarding the potentially fraudulent 9th grade test scores for Thomas
  - The percent of students in the district with passing reading scores changed from 86.0% to 85.7% following discarding the Thomas HS 9th grade test scores.
  - The percent of students in the district with overall passing exam scores changed from 65.0% to 64.9% following discarding the Thomas HS 9th grade test scores.
 
-Disregarding the _?_ 9th grade students at Thomas HS with math scores, the population of students included in calculating the average math scores decreased from _?_ to _?_. 
-
-Disregarding the _?_ 9th grade students at Thomas HS with reading scores, the population of students included in calculating the average reading scores decreased from _?_ to _?_. 
-
-Disregarding the _?_ 9th grade students at Thomas HS, the population of students included in calculating the average overall scores decreased from _?_ to _?_. 
-
-Because the 9th grade population of Thomas HS is small compared to the total number of students in the district, it makes sense that disregarding this data had a small (if any at all) effect on the overall district metrics.
+Disregarding the 461 9th grade students at Thomas HS, the population of students included in calculating the average district scores decreased from 39,170 to 38,709. Because the 9th grade population of Thomas HS is small compared to the total number of students in the district, it makes sense that disregarding this data had a small affect on the overall district metrics (if any affect at all).
 
 Additionally, because it is most likely that the fraudulent scores were altered to be better than the real data, it makes sense that disregarding this data caused, if any change at all, a change to decrease the district metrics. This explanation can be confirmed by comparison of Thomas HS scores before and after discarding the potentially altered 9th grade data-- the original data set had a higher average math score, average reading score, % passing math, % passing reading, and % overall passing compared to the data set without the 9th grade data. For example, the original Thomas HS data set including the 9th graders has a 90.9% overall pass rate, while the adjusted data with the 9th graders excluded has a 65.1% overall pass rate. This illustrates that the fraudulent data improved the scores for Thomas HS.
 
