@@ -98,6 +98,8 @@ The 9th grade scores for Thomas HS are marked NaN because of potentially fraudul
 
 ### Results
 
+!!!!!!!!!!!!!!!!!!!! CHECK THIS !!!!!!!!!!!!!!!!!!!!!!!!!!
+
 Following discarding the potentially fraudulent 9th grade test scores for Thomas HS, the school district analysis changed in the following ways:
  - The total number of students in the district did not change following discarding the Thomas HS 9th grade test scores.
  - The total budget for the district did not change following discarding the Thomas HS 9th grade test scores.
